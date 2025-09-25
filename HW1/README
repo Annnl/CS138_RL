@@ -1,0 +1,7 @@
+```
+pip install numpy
+pip install matplotlib
+```
+
+running my jupyter notebook for HW1 only needs the two packages above.
+Use a kernel of a python environment with the two packages, and click run. 
