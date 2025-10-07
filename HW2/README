@@ -1,7 +1,11 @@
 ```
 pip install numpy
 pip install matplotlib
+pip install collection
+pip install random
 ```
 
-running my jupyter notebook for HW1 only needs the two packages above.
-Use a kernel of a python environment with the two packages, and click run. 
+running my jupyter notebook for HW2 only needs the four packages above.
+Use a kernel of a python environment with the packages, and click run. 
+
+To switch racetrack, you just need change the return of function _create_r_track
